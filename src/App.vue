@@ -80,7 +80,7 @@ const isPC = () => {
 const jumpTo_Android = () => {
   if (isWeChat()) {
     // 如果是安卓微信内
-    location.href = `http://to.ptger.cn/redirect?url=${encodeURIComponent(window.location.href)}`;
+    weui.alert('请在右上角[···]选择在浏览器打开！');
   } else {
     // 如果不是微信浏览器
     // 跳转到指定页面
