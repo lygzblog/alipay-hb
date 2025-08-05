@@ -14,7 +14,6 @@ export default defineConfig({
     port: "8080",
     proxy: {
       '/api': {
-        // target: 'https://frp.chainroad.cn',
         // target: 'http://127.0.0.1:8888',
         changeOrigin: true,  // 允许跨域
         rewrite: path => path.replace(/^\/api/, '')
