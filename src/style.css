@@ -19,4 +19,9 @@ body {
   height: 100vh;
   overflow-x: hidden;
   font-size: 14px;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* Internet Explorer 10+ */
+}
+#app::-webkit-scrollbar {
+  display: none;
 }
