@@ -7,7 +7,7 @@
 
 本脚本由羚羊公子开源，用于微信内部以及浏览器环境下，自动跳转到支付宝实现自动领取赏金红包。不涉及各类危险问题，但如果你使用该脚本，则需要自行承担使用过程产生的各类未知问题，以及各类安全风险。支付宝赏金红包自动领取脚本源码，让你轻松引流赚钱红包！
 
-![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/alipay-hb-1.jpg)
+![](https://raw.githubusercontent.com/lygzblog/githubImg/refs/heads/main/20251220201140247.webp)
 
 # 💻 部署教程
 
